@@ -1,0 +1,146 @@
+#testo1 {
+    position: absolute;
+width: 1125px;
+height: 60px;
+left: 158px;
+top: 68px;
+
+font-family: 'SF UI Text';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 60px;
+
+color: #000000;
+}
+
+#testo2 {
+    position: absolute;
+width: 1125px;
+height: 30px;
+left: 158px;
+top: 142px;
+
+font-family: 'SF UI Text';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+}
+
+#rectangle1 {
+    position: absolute;
+    width: 175px;
+    height: 40px;
+    left: 538px;
+    top: 225px;
+
+    background: #81D1FF;
+}
+
+#rectangle2 {
+    position: absolute;
+width: 175px;
+height: 40px;
+left: 728px;
+top: 225px;
+
+background: #4F80FE;
+}
+
+#rectangle3 {
+    position: absolute;
+    width: 175px;
+    height: 40px;
+    left: 918px;
+    top: 225px;
+    
+    background: #FF8181;
+}
+
+#Gradi {
+    position: absolute;
+width: 97px;
+height: 14px;
+left: 577px;
+top: 238px;
+
+font-family: 'SF UI Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 14px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#Fahrenheit {
+    position: absolute;
+width: 154px;
+height: 14px;
+left: 738px;
+top: 238px;
+
+font-family: 'SF UI Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 14px;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#Reset {
+    position: absolute;
+width: 154px;
+height: 14px;
+left: 928px;
+top: 238px;
+
+font-family: 'SF UI Text';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 14px;
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+#calcolo {
+    position: absolute;
+width: 435px;
+height: 30px;
+left: 158px;
+top: 311px;
+
+font-family: 'Comic Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 30px;
+
+text-align: center;
+
+color: #000000;
+
+}
+
+#InsNum {
+    box-sizing: border-box;
+    position: absolute;
+    width: 365px;
+    height: 40px;
+    left: 158px;
+    top: 225px;
+
+    background: #FFFFFF;
+    border: 1px solid #504F4F;
+}
